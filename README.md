@@ -68,16 +68,16 @@ The presence of some of these factors does not mean that we necessarily have to 
 We should not be c-betting every flop without thinking about it.
 
  1. Value betting 
-   - The flop made or improved our hand
-   - Our bet size gives us favorable pot odds if we are drawing
-   - We _want_ our opponent to call with a worse hand
+    * The flop made or improved our hand
+    * Our bet size gives us favorable pot odds if we are drawing
+    * We _want_ our opponent to call with a worse hand
 
  2. To win the pot outright
-   - There are fewer players in the pot or players have been known to play tightly
-   - We are in late position and it has been checked to us
-   - The flop texture is favorable 
-     + An opponent would only call with a pocket pair, or a weak hand (unlikely if we have raised pre-flop and our opponent has a tight pre-flop range)
-     + There are no flush or straight draw possibilities on the board
+    * There are fewer players in the pot or players have been known to play tightly
+    * We are in late position and it has been checked to us
+    * The flop texture is favorable 
+      + An opponent would only call with a pocket pair, or a weak hand (unlikely if we have raised pre-flop and our opponent has a tight pre-flop range)
+      + There are no flush or straight draw possibilities on the board
 
 ### Reasons to _NOT_ Continuation Bet
 
