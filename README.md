@@ -75,7 +75,7 @@ We should not be c-betting every flop without thinking about it.
  2. To win the pot outright
     * There are fewer players in the pot or players have been known to play tightly
     * We are in late position and it has been checked to us
-    * The flop texture is favorable 
+    * The flop texture is favorable, i.e. The cards come on the flop indicating that: 
       + An opponent would only call with a pocket pair, or a weak hand (unlikely if we have raised pre-flop and our opponent has a tight pre-flop range)
       + There are no flush or straight draw possibilities on the board
 
@@ -97,3 +97,27 @@ We might double barrel when:
  * The turn card is something that scares our opponent
  * We know our opponent frequently calls on the flop but won't continue without a made hand
 
+## Glossary
+
+This is a list of definitions for some of the jargon that I've used in this guide. It is by no means a comprehensive list, it contains only the terms I've used in this guide
+
+ * 6-max - A game with a maximum of 6 people
+ * VPIP - Voluntarily Put in Pot. Refers to the percentage of hands where a player calls or raises pre-flop. Excludes involuntary contributions like blinds or antes
+ * PFR - Pre-Flop Raise. A raise made by a player before seeing any community cards. Also refers to the statistic denoting the percentage of time a player makes a pre flop raise.
+ * short stacked - When a player has a small stack (chip amount) relative to the size of the big blind. There are different degrees of being short stacked, but the term can refer to anything less than 40x the big blind
+ * bb - big blind. Used to express bet amounts or stack sizes as a multiple of the big blind
+ * AKo - The "o" here indicates that the two cards are off suit
+ * AKs - The "s" here indicates that two cards are suited (of the same suit)
+ * shove - an all-in bet
+ * broadway - a straight from Ace to Ten. A broadway card refers to any of the cards that make up this straight
+ * range - refers to a range of hands that a player might be playing with. It's useful to think of opponents hands as ranges rather than trying to read them as having a specific hand
+ * early position - usually the first third of players to act once the flop has been dealt. Usually includes small blind, big blind, and under the gun (first to act pre-flop, also known as UTG)
+ * mid position - the middle third of players to act once the flop has been dealt.
+ * late position - the last third of players to act once the flop has been dealt.
+ * suited connector - two cards that are next to each other in order and of the same suit
+ * limp - to enter a hand by simply calling the big blind and not raising or calling a raise
+ * made hand - the opposite of a drawing hand, a hand that has reached it's full expected strength and can be played with without improving
+ * drawing hand - a hand that needs at least one more card to be a strong hand (e.g. four cards of the same suit, or four cards in a row)
+ * flop - the first three community cards to be dealt
+ * turn - the fourth community card to be dealt. Also known as "fourth street"
+ * river - the fifth and final community card to be dealt.
